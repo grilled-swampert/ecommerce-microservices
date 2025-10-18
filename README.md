@@ -220,7 +220,3 @@ Database connection issues:
 ```bash
 kubectl exec -it postgres-pod -- psql -U postgres
 ```
-
-## License
-
-MIT
