@@ -1,5 +1,5 @@
 ![Mermaid Chart - Create complex, visual diagrams with text -2025-10-18-163401](https://github.com/user-attachments/assets/9d2bfe29-3499-4ce2-81cb-857d12d7efc7)
-<svg id="export-svg" width="100%" xmlns="http://www.w3.org/2000/svg" class="flowchart" style="max-width: 909.588px; background: rgb(255, 255, 255);" viewBox="4 4 909.5875244140625 980.5" role="graphics-document document" aria-roledescription="flowchart-v2"><style xmlns="http://www.w3.org/1999/xhtml">/* Google Inc.
+<svg id="export-svg" width="100%" xmlns="http://www.w3.org/2000/svg" class="flowchart" style="max-width: 909.588px; background: rgb(255, 255, 255);" viewBox="4 4 909.5875244140625 980.5" role="graphics-document document" aria-roledescription="flowchart-v2">
 
 # E-commerce Microservices Platform
 
